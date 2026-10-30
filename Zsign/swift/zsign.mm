@@ -235,6 +235,51 @@ int zsign(
 }
 
 
+// AppShelf: one provisioning profile per bundle. provs[0] is the app's own profile; each nested
+// bundle (app extension) is signed with the profile whose application-identifier ends with its id.
+int zsignMulti(
+	NSString *app,
+	NSArray<NSString *> *provs,
+	NSString *key,
+	NSString *pass,
+	NSString *bundleid,
+	bool excludeprovion,
+	void(^completionHandler)(BOOL success)
+) {
+	ZTimer gtimer;
+	string strPath = [app cStringUsingEncoding:NSUTF8StringEncoding];
+	if (!ZFile::IsFileExists(strPath.c_str()) || provs.count == 0) {
+		ZLog::ErrorV(">>> Invalid path or no profiles! %s\n", strPath.c_str());
+		completionHandler(NO);
+		return -1;
+	}
+	string strPKeyFile = [key cStringUsingEncoding:NSUTF8StringEncoding];
+	string strPassword = [pass cStringUsingEncoding:NSUTF8StringEncoding];
+	string strBundleId = [bundleid cStringUsingEncoding:NSUTF8StringEncoding];
+
+	list<ZSignAsset> assets;
+	for (NSString *prov in provs) {
+		ZSignAsset zsa;
+		string strProvFile = [prov cStringUsingEncoding:NSUTF8StringEncoding];
+		// No entitlements file: each asset signs with its own profile's entitlements.
+		if (!zsa.Init("", strPKeyFile, strProvFile, "", strPassword, false, false, false)) {
+			completionHandler(NO);
+			return -1;
+		}
+		assets.push_back(zsa);
+	}
+
+	vector<string> arrDylibFiles;
+	vector<string> arrDisDylibFiles;
+	ZBundle bundle;
+	bool bRet = bundle.SignFolder(&assets, strPath, strBundleId, "", "", arrDylibFiles, arrDisDylibFiles,
+								  true, false, true, excludeprovion);
+	ZLog::PrintV(">>> Signing (%lu profiles):\t%s\n", (unsigned long)assets.size(), strPath.c_str());
+	completionHandler(bRet);
+	gtimer.Print(">>> Done.");
+	return bRet ? 0 : -1;
+}
+
 int checkCert(
 	NSString *prov,
 	NSString *key,

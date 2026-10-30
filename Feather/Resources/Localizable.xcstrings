@@ -190,6 +190,12 @@
             "state" : "translated",
             "value" : "%lld个应用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 個のアプリ"
+          }
         }
       }
     },
@@ -381,6 +387,12 @@
             "state" : "translated",
             "value" : "%lld天"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 日"
+          }
         }
       }
     },
@@ -452,6 +464,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隐藏了%lld个系统dylibs"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "必須のシステム dylib %lld 個は表示していません。"
           }
         }
       }
@@ -597,6 +615,12 @@
             "state" : "translated",
             "value" : "%lld个软件源"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%lld 個のソース"
+          }
         }
       }
     },
@@ -667,6 +691,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "💜感谢捐赠者们的贡献与一路以来的支持！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "💜 スポンサーのみなさんのおかげで完成しました！"
           }
         }
       }
@@ -739,6 +769,12 @@
             "state" : "translated",
             "value" : "关于"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "情報"
+          }
         }
       }
     },
@@ -798,6 +834,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "关于%@"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ について"
           }
         }
       }
@@ -882,6 +924,12 @@
             "state" : "translated",
             "value" : "添加"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加"
+          }
         }
       }
     },
@@ -928,6 +976,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加和管理用于签名应用的证书。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリの署名に使う証明書を追加・管理します。"
           }
         }
       }
@@ -1000,6 +1054,12 @@
             "state" : "translated",
             "value" : "添加软件源"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソースを追加"
+          }
         }
       }
     },
@@ -1058,6 +1118,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加了本地化文本"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリの説明文を、各言語版で表示します。"
           }
         }
       }
@@ -1142,6 +1208,12 @@
             "state" : "translated",
             "value" : "高级"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "詳細"
+          }
         }
       }
     },
@@ -1188,6 +1260,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "高级安装方式"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "上級者向けのインストール方法"
           }
         }
       }
@@ -1260,6 +1338,12 @@
             "state" : "translated",
             "value" : "所有"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべて"
+          }
         }
       }
     },
@@ -1330,6 +1414,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "所有应用都存储于文档目录，可以通过以上链接访问。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリのファイルはすべて書類フォルダーにあります。よく使う場所は上のリンクから開けます。"
           }
         }
       }
@@ -1403,6 +1493,12 @@
             "state" : "translated",
             "value" : "全部仓库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのリポジトリ"
+          }
         }
       }
     },
@@ -1473,6 +1569,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "替换图标"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代替アイコン"
           }
         }
       }
@@ -1546,6 +1648,12 @@
             "state" : "translated",
             "value" : "优秀的应用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すばらしいアプリ"
+          }
         }
       }
     },
@@ -1617,6 +1725,12 @@
             "state" : "translated",
             "value" : "应用特性"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリの機能"
+          }
         }
       }
     },
@@ -1663,6 +1777,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "应用图标"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリアイコン"
           }
         }
       }
@@ -1753,6 +1873,12 @@
             "state" : "translated",
             "value" : "外观"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "外観"
+          }
         }
       }
     },
@@ -1824,6 +1950,12 @@
             "state" : "translated",
             "value" : "AppID名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "App ID 名"
+          }
         }
       }
     },
@@ -1894,6 +2026,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "归档与压缩"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アーカイブと圧縮"
           }
         }
       }
@@ -1985,6 +2123,12 @@
             "state" : "translated",
             "value" : "密码错误"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードが違います"
+          }
         }
       }
     },
@@ -2043,6 +2187,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更小"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最高"
           }
         }
       }
@@ -2133,6 +2283,12 @@
             "state" : "translated",
             "value" : "大号描述"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "大きな説明"
+          }
         }
       }
     },
@@ -2204,6 +2360,12 @@
             "state" : "translated",
             "value" : "包"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バンドル"
+          }
         }
       }
     },
@@ -2262,6 +2424,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "在默认情况下，应用的本地化标题保持不变。此选项将取消这一限制。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "通常は、アプリの各言語の名前は変更しません。このオプションをオンにすると上書きします。"
           }
         }
       }
@@ -2352,6 +2520,12 @@
             "state" : "translated",
             "value" : "取消"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "キャンセル"
+          }
         }
       }
     },
@@ -2398,6 +2572,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "分类"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カテゴリ"
           }
         }
       }
@@ -2469,6 +2649,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "证书"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書"
           }
         }
       }
@@ -2560,6 +2746,12 @@
             "state" : "translated",
             "value" : "证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書"
+          }
         }
       }
     },
@@ -2606,6 +2798,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "证书更新成功。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書を更新しました。"
           }
         }
       }
@@ -2678,6 +2876,12 @@
             "state" : "translated",
             "value" : "变更"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更"
+          }
         }
       }
     },
@@ -2713,6 +2917,12 @@
             "state" : "translated",
             "value" : "修改昵称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ニックネームを変更"
+          }
         }
       }
     },
@@ -2729,6 +2939,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Sprawdź aktualizacje"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデートを確認"
           }
         }
       }
@@ -2788,6 +3004,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "检查是否吊销"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "失効を確認"
           }
         }
       }
@@ -2861,6 +3083,12 @@
             "state" : "translated",
             "value" : "从文件选择"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルから選択"
+          }
         }
       }
     },
@@ -2933,6 +3161,12 @@
             "state" : "translated",
             "value" : "从相片选择"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "写真から選択"
+          }
         }
       }
     },
@@ -3004,6 +3238,12 @@
             "state" : "translated",
             "value" : "关闭"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じる"
+          }
         }
       }
     },
@@ -3062,6 +3302,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已完成"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完了"
           }
         }
       }
@@ -3135,6 +3381,12 @@
             "state" : "translated",
             "value" : "压缩级别"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "圧縮レベル"
+          }
         }
       }
     },
@@ -3193,6 +3445,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "调整应用的安装方式、压缩等级并对应用自定义。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリのインストール方法、ZIP の圧縮レベル、アプリへの独自の変更を設定します。"
           }
         }
       }
@@ -3283,6 +3541,12 @@
             "state" : "translated",
             "value" : "复制"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピー"
+          }
         }
       }
     },
@@ -3341,6 +3605,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "复制下载连接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロード URL をコピー"
           }
         }
       }
@@ -3431,6 +3701,12 @@
             "state" : "translated",
             "value" : "致谢"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "クレジット"
+          }
         }
       }
     },
@@ -3477,6 +3753,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "自定义主题颜色"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テーマカラー"
           }
         }
       }
@@ -3549,6 +3831,12 @@
             "state" : "translated",
             "value" : "自定义"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "カスタマイズ"
+          }
         }
       }
     },
@@ -3601,6 +3889,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "暗黑"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダーク"
           }
         }
       }
@@ -3672,6 +3966,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "日期"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "日付"
           }
         }
       }
@@ -3755,6 +4055,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加日期"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "追加日"
           }
         }
       }
@@ -3845,6 +4151,12 @@
             "state" : "translated",
             "value" : "默认"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デフォルト"
+          }
         }
       }
     },
@@ -3903,6 +4215,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "应用的默认风格，只显示副标题。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "標準の表示です。サブタイトルだけを表示します。"
           }
         }
       }
@@ -3993,6 +4311,12 @@
             "state" : "translated",
             "value" : "删除"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
+          }
         }
       }
     },
@@ -4052,6 +4376,12 @@
             "state" : "translated",
             "value" : "签名后删除"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名後に削除"
+          }
         }
       }
     },
@@ -4098,6 +4428,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "描述"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "説明"
           }
         }
       }
@@ -4146,6 +4482,12 @@
             "state" : "translated",
             "value" : "开发者"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "デベロッパ"
+          }
         }
       }
     },
@@ -4162,6 +4504,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Wyłącz Liquid Glass"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liquid Glass を無効にする"
           }
         }
       }
@@ -4252,6 +4600,12 @@
             "state" : "translated",
             "value" : "确认"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "閉じる"
+          }
         }
       }
     },
@@ -4329,6 +4683,12 @@
             "state" : "translated",
             "value" : "显示名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "表示名"
+          }
         }
       }
     },
@@ -4339,6 +4699,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Do you want to download and install this file?"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このファイルをダウンロードしてインストールしますか？"
           }
         }
       }
@@ -4392,6 +4758,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "是否向外部应用导出证书？导出的应用可以使用证书进行签名。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書をほかのアプリに書き出しますか？書き出し先のアプリがあなたの証明書でアプリに署名できるようになります。"
           }
         }
       }
@@ -4481,6 +4853,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "捐赠"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寄付"
           }
         }
       }
@@ -4572,6 +4950,12 @@
             "state" : "translated",
             "value" : "捐赠"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寄付"
+          }
         }
       }
     },
@@ -4638,6 +5022,12 @@
             "state" : "translated",
             "value" : "下载StosVPN"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "StosVPN をダウンロード"
+          }
         }
       }
     },
@@ -4654,6 +5044,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pobierz aktualizację"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデートをダウンロード"
           }
         }
       }
@@ -4732,6 +5128,12 @@
             "state" : "translated",
             "value" : "插件动态库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "dylib"
+          }
         }
       }
     },
@@ -4778,6 +5180,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "动态图标"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダイナミックアイコン"
           }
         }
       }
@@ -4837,6 +5245,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "启用液态玻璃"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Liquid Glass を有効にする"
           }
         }
       }
@@ -4909,6 +5323,12 @@
             "state" : "translated",
             "value" : "为了保护你的Apple ID不被Apple标记，启用保护后，你的包标识符后面会被加入随机的字符串。如果你使用签名服务则可以忽略。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護をオンにすると、署名するアプリのバンドル ID の末尾にランダムな文字列を付けます。Apple ID が Apple に問題視されないようにするためです。署名サービスを使う場合は、この設定は不要です。"
+          }
         }
       }
     },
@@ -4968,6 +5388,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "感觉%@怎么样？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "%@ を楽しんでいますか？"
           }
         }
       }
@@ -5039,6 +5465,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入链接开始验证"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL を入力すると確認を始めます。"
           }
         }
       }
@@ -5129,6 +5561,12 @@
             "state" : "translated",
             "value" : "输入密码"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードを入力"
+          }
         }
       }
     },
@@ -5187,6 +5625,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "输入软件源链接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソースの URL を入力"
           }
         }
       }
@@ -5277,6 +5721,12 @@
             "state" : "translated",
             "value" : "输入你的私钥的密码。没有密码则留空。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "秘密鍵のパスワードを入力してください。パスワードがない場合は空欄のままにしてください。"
+          }
         }
       }
     },
@@ -5348,6 +5798,12 @@
             "state" : "translated",
             "value" : "授权"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エンタイトルメント"
+          }
         }
       }
     },
@@ -5406,6 +5862,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "错误"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エラー"
           }
         }
       }
@@ -5478,6 +5940,12 @@
             "state" : "translated",
             "value" : "可执行"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実行ファイル"
+          }
         }
       }
     },
@@ -5549,6 +6017,12 @@
             "state" : "translated",
             "value" : "当前的Dylibs"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "既存の dylib"
+          }
         }
       }
     },
@@ -5607,6 +6081,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "实验性"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "実験的な機能"
           }
         }
       }
@@ -5691,6 +6171,12 @@
             "state" : "translated",
             "value" : "已过期"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "期限切れ"
+          }
         }
       }
     },
@@ -5761,6 +6247,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "过期于"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "有効期限"
           }
         }
       }
@@ -5834,6 +6326,12 @@
             "state" : "translated",
             "value" : "导出"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書き出し"
+          }
         }
       }
     },
@@ -5886,6 +6384,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "导出证书"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書を書き出す"
           }
         }
       }
@@ -5958,6 +6462,12 @@
             "state" : "translated",
             "value" : "下载失败，请检查网络连接并重试。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ダウンロードできませんでした。インターネット接続を確認して、もう一度お試しください。"
+          }
         }
       }
     },
@@ -6016,6 +6526,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "特性"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "おすすめ"
           }
         }
       }
@@ -6087,6 +6603,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "功能"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "機能"
           }
         }
       }
@@ -6166,6 +6688,12 @@
             "state" : "translated",
             "value" : "文件共享"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル共有"
+          }
         }
       }
     },
@@ -6236,6 +6764,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイル"
           }
         }
       }
@@ -6308,6 +6842,12 @@
             "state" : "translated",
             "value" : "过滤"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "絞り込み"
+          }
         }
       }
     },
@@ -6378,6 +6918,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "强制本地化标题"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ローカライズを強制"
           }
         }
       }
@@ -6450,6 +6996,12 @@
             "state" : "translated",
             "value" : "框架"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フレームワーク"
+          }
         }
       }
     },
@@ -6520,6 +7072,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "框架和插件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フレームワークとプラグイン"
           }
         }
       }
@@ -6592,6 +7150,12 @@
             "state" : "translated",
             "value" : "完全本地化"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "完全にローカル"
+          }
         }
       }
     },
@@ -6650,6 +7214,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "游戏模式"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ゲームモード"
           }
         }
       }
@@ -6734,6 +7304,12 @@
             "state" : "translated",
             "value" : "一般"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "一般"
+          }
         }
       }
     },
@@ -6780,6 +7356,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "获取"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入手"
           }
         }
       }
@@ -6851,6 +7433,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "通过捐赠加入我们的秘密Discord来获取有关未来更新、测试版和提升使用体验的资讯。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寄付すると、非公開の Discord に参加できます。今後のアップデートやベータ版、使い心地をよくするアイデアについて話しています。"
           }
         }
       }
@@ -6924,6 +7512,12 @@
             "state" : "translated",
             "value" : "显示信息"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "情報を見る"
+          }
         }
       }
     },
@@ -6982,6 +7576,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加你的第一个仓库"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まずはリポジトリを追加しましょう。"
           }
         }
       }
@@ -7042,6 +7642,12 @@
             "state" : "translated",
             "value" : "导入你的第一个IPA文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "まずは IPA ファイルを読み込みましょう。"
+          }
         }
       }
     },
@@ -7100,6 +7706,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "导入你的第一个证书"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名を始めるには、まず証明書を読み込みましょう。"
           }
         }
       }
@@ -7190,6 +7802,12 @@
             "state" : "translated",
             "value" : "GitHub仓库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub リポジトリ"
+          }
         }
       }
     },
@@ -7248,6 +7866,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "来我们的GitHub仓库添加星标！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "GitHub でスターを付けて応援してください！"
           }
         }
       }
@@ -7320,6 +7944,12 @@
             "state" : "translated",
             "value" : "心跳检测"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハートビート"
+          }
         }
       }
     },
@@ -7391,6 +8021,12 @@
             "state" : "translated",
             "value" : "帮助"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘルプ"
+          }
         }
       }
     },
@@ -7461,6 +8097,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "隐藏"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "非表示"
           }
         }
       }
@@ -7551,6 +8193,12 @@
             "state" : "translated",
             "value" : "标识符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID"
+          }
         }
       }
     },
@@ -7621,6 +8269,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标识符前缀"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID のプレフィックス"
           }
         }
       }
@@ -7693,6 +8347,12 @@
             "state" : "translated",
             "value" : "标识符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ID"
+          }
         }
       }
     },
@@ -7746,6 +8406,12 @@
             "state" : "translated",
             "value" : "idevice"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "idevice"
+          }
         }
       }
     },
@@ -7792,6 +8458,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "此安装方式仅适用于高级用户！\n\n需要VPN和来自电脑的配对文件。\n\n建议您返回服务器安装方式。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このインストール方法は上級者向けです！\n\nVPN と、PC で作ったペアリングファイルが必要です。\n\nサーバーを使うインストール方法に戻すことをおすすめします。"
           }
         }
       }
@@ -7851,6 +8523,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "请在GitHub中报告错误。提交issue时请附上详细的信息。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリで問題が起きたときは、GitHub リポジトリから報告してください。報告するときは、できるだけ詳しい情報を書いてください。"
           }
         }
       }
@@ -7942,6 +8620,12 @@
             "state" : "translated",
             "value" : "导入"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み込み"
+          }
         }
       }
     },
@@ -8012,6 +8696,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "导入证书文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書ファイルを読み込む"
           }
         }
       }
@@ -8085,6 +8775,12 @@
             "state" : "translated",
             "value" : "从文件导入"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルから読み込む"
+          }
         }
       }
     },
@@ -8157,6 +8853,12 @@
             "state" : "translated",
             "value" : "从链接导入"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL から読み込む"
+          }
         }
       }
     },
@@ -8227,6 +8929,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "导入配对文件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアリングファイルを読み込む"
           }
         }
       }
@@ -8299,6 +9007,12 @@
             "state" : "translated",
             "value" : "导入描述文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロビジョニングファイルを読み込む"
+          }
         }
       }
     },
@@ -8369,6 +9083,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已导入"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み込み済み"
           }
         }
       }
@@ -8441,6 +9161,12 @@
             "state" : "translated",
             "value" : "内容"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "情報"
+          }
         }
       }
     },
@@ -8488,6 +9214,12 @@
             "state" : "translated",
             "value" : "内容"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "情報"
+          }
         }
       }
     },
@@ -8528,6 +9260,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "注入到扩展"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "拡張機能にも挿入"
           }
         }
       }
@@ -8594,6 +9332,12 @@
             "state" : "translated",
             "value" : "注入目录"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "挿入先フォルダー"
+          }
         }
       }
     },
@@ -8658,6 +9402,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "注入路径"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "挿入先パス"
           }
         }
       }
@@ -8748,6 +9498,12 @@
             "state" : "translated",
             "value" : "安装"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インストール"
+          }
         }
       }
     },
@@ -8801,6 +9557,12 @@
             "state" : "translated",
             "value" : "签名后安装"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名後にインストール"
+          }
         }
       }
     },
@@ -8817,6 +9579,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Zainstaluj bieżącą wersję"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在のバージョンをインストール"
           }
         }
       }
@@ -8876,6 +9644,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "安装"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インストール"
           }
         }
       }
@@ -8948,6 +9722,12 @@
             "state" : "translated",
             "value" : "安装类型"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インストール方法"
+          }
         }
       }
     },
@@ -9006,6 +9786,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在安装"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "インストール中"
           }
         }
       }
@@ -9077,6 +9863,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "iPad全屏"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iPad のフルスクリーン"
           }
         }
       }
@@ -9156,6 +9948,12 @@
             "state" : "translated",
             "value" : "iTunes文件共享"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iTunes のファイル共有"
+          }
         }
       }
     },
@@ -9208,6 +10006,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "加入我们的Discord"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Discord に参加"
           }
         }
       }
@@ -9268,6 +10072,12 @@
             "state" : "translated",
             "value" : "学习如何设置仓库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リポジトリの作り方を見る…"
+          }
         }
       }
     },
@@ -9296,6 +10106,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Daha Az"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "低"
           }
         }
       }
@@ -9381,6 +10197,12 @@
             "state" : "translated",
             "value" : "资源库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリ"
+          }
         }
       }
     },
@@ -9452,6 +10274,12 @@
             "state" : "translated",
             "value" : "资源库元素外观"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライブラリの表示"
+          }
         }
       }
     },
@@ -9505,6 +10333,12 @@
             "state" : "translated",
             "value" : "明亮"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ライト"
+          }
         }
       }
     },
@@ -9515,6 +10349,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Merge Entitlements"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エンタイトルメントを統合"
           }
         }
       }
@@ -9588,6 +10428,12 @@
             "state" : "translated",
             "value" : "最低版本要求"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "最低要件"
+          }
         }
       }
     },
@@ -9658,6 +10504,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "杂项"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "その他"
           }
         }
       }
@@ -9730,6 +10582,12 @@
             "state" : "translated",
             "value" : "自定义"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更"
+          }
         }
       }
     },
@@ -9776,6 +10634,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更多"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "もっと見る"
           }
         }
       }
@@ -9860,6 +10724,12 @@
             "state" : "translated",
             "value" : "名称"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "名前"
+          }
         }
       }
     },
@@ -9930,6 +10800,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "添加新内容"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新規"
           }
         }
       }
@@ -10020,6 +10896,12 @@
             "state" : "translated",
             "value" : "新证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しい証明書"
+          }
         }
       }
     },
@@ -10092,6 +10974,12 @@
             "state" : "translated",
             "value" : "昵称（可选）"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ニックネーム（任意）"
+          }
         }
       }
     },
@@ -10150,6 +11038,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无已安装的应用"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリはありません"
           }
         }
       }
@@ -10222,6 +11116,12 @@
             "state" : "translated",
             "value" : "无已安装的证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書がありません"
+          }
         }
       }
     },
@@ -10281,6 +11181,12 @@
             "state" : "translated",
             "value" : "无已安装的证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書はありません"
+          }
         }
       }
     },
@@ -10327,6 +11233,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "无已安装的授权。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エンタイトルメントはありません。"
           }
         }
       }
@@ -10393,6 +11305,12 @@
             "state" : "translated",
             "value" : "未选择文件。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルが選ばれていません。"
+          }
         }
       }
     },
@@ -10452,6 +11370,12 @@
             "state" : "translated",
             "value" : "未找到框架或插件。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フレームワークやプラグインは見つかりませんでした。"
+          }
         }
       }
     },
@@ -10510,6 +11434,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未找到图标。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アイコンは見つかりませんでした。"
           }
         }
       }
@@ -10582,6 +11512,12 @@
             "state" : "translated",
             "value" : "未找到配对文件，请导入。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアリングファイルが見つかりません。読み込んでください。"
+          }
         }
       }
     },
@@ -10628,6 +11564,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "未列出私有权限。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プライバシーの許可項目はありません。"
           }
         }
       }
@@ -10688,6 +11630,12 @@
             "state" : "translated",
             "value" : "无已导入的仓库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リポジトリはありません"
+          }
         }
       }
     },
@@ -10734,6 +11682,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "没有可复制的软件源"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "コピーできるソースがありません"
           }
         }
       }
@@ -10793,6 +11747,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "空"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "なし"
           }
         }
       }
@@ -10883,6 +11843,12 @@
             "state" : "translated",
             "value" : "OK"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "OK"
+          }
         }
       }
     },
@@ -10953,6 +11919,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "只使用本地地址"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "localhost のアドレスだけを使う"
           }
         }
       }
@@ -11025,6 +11997,12 @@
             "state" : "translated",
             "value" : "打开"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "開く"
+          }
         }
       }
     },
@@ -11083,6 +12061,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "开启一个[issue](https://github.com/khcrysalis/Feather/issues)"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "あなたのソースをおすすめに載せたい場合は、GitHub で [issue](https://github.com/khcrysalis/AppShelf/issues) を作成してください。"
           }
         }
       }
@@ -11155,6 +12139,12 @@
             "state" : "translated",
             "value" : "打开归档目录"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アーカイブを開く"
+          }
         }
       }
     },
@@ -11226,6 +12216,12 @@
             "state" : "translated",
             "value" : "打开证书目录"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書を開く"
+          }
         }
       }
     },
@@ -11296,6 +12292,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打开文档目录"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書類を開く"
           }
         }
       }
@@ -11386,6 +12388,12 @@
             "state" : "translated",
             "value" : "在“文件”中打开"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ファイルで開く"
+          }
         }
       }
     },
@@ -11444,6 +12452,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "打包"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パッケージ"
           }
         }
       }
@@ -11515,6 +12529,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "配对文件指南"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアリングファイルの手引き"
           }
         }
       }
@@ -11605,6 +12625,12 @@
             "state" : "translated",
             "value" : "密码"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワード"
+          }
         }
       }
     },
@@ -11651,6 +12677,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "权限"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "許可"
           }
         }
       }
@@ -11722,6 +12754,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "平台"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プラットフォーム"
           }
         }
       }
@@ -11813,6 +12851,12 @@
             "state" : "translated",
             "value" : "请检查密码并重试。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "パスワードを確認して、もう一度お試しください。"
+          }
         }
       }
     },
@@ -11884,6 +12928,12 @@
             "state" : "translated",
             "value" : "请打开设置并导入可用的证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定から有効な証明書を読み込んでください"
+          }
         }
       }
     },
@@ -11942,6 +12992,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "签名后配置"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名後の処理"
           }
         }
       }
@@ -12020,6 +13076,12 @@
             "state" : "translated",
             "value" : "PPQ保护"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PPQ 保護"
+          }
         }
       }
     },
@@ -12066,6 +13128,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "PPQ检查"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PPQCheck"
           }
         }
       }
@@ -12139,6 +13207,12 @@
             "state" : "translated",
             "value" : "先前版本"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "以前のバージョン"
+          }
         }
       }
     },
@@ -12191,6 +13265,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Pro Motion"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ProMotion"
           }
         }
       }
@@ -12250,6 +13330,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "继续"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "続ける"
           }
         }
       }
@@ -12329,6 +13415,12 @@
             "state" : "translated",
             "value" : "属性"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロパティ"
+          }
         }
       }
     },
@@ -12399,6 +13491,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "保护"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保護"
           }
         }
       }
@@ -12471,6 +13569,12 @@
             "state" : "translated",
             "value" : "描述文件对应所有设备"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてのデバイスを対象にする"
+          }
         }
       }
     },
@@ -12541,6 +13645,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "描述文件对应设备"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "登録済みのデバイス"
           }
         }
       }
@@ -12613,6 +13723,12 @@
             "state" : "translated",
             "value" : "重签名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再署名"
+          }
         }
       }
     },
@@ -12671,6 +13787,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "准备"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "準備完了"
           }
         }
       }
@@ -12743,6 +13865,12 @@
             "state" : "translated",
             "value" : "删除"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "削除"
+          }
         }
       }
     },
@@ -12813,6 +13941,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "获取beta版来去除这些提示！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ベータ版に参加すると、このような通知は表示されなくなります！"
           }
         }
       }
@@ -12891,6 +14025,12 @@
             "state" : "translated",
             "value" : "移除描述文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロビジョニングを削除"
+          }
         }
       }
     },
@@ -12961,6 +14101,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移除这项警告"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この通知を消す"
           }
         }
       }
@@ -13039,6 +14185,12 @@
             "state" : "translated",
             "value" : "移除URL Scheme"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL スキームを削除"
+          }
         }
       }
     },
@@ -13110,6 +14262,12 @@
             "state" : "translated",
             "value" : "移除Watch占位符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Apple Watch 用の仮アプリを削除"
+          }
         }
       }
     },
@@ -13162,6 +14320,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "移除描述文件后，签名时就不会将其嵌入到App中，从而防止被检测到。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "プロビジョニングファイルを削除すると、署名するときに mobileprovision ファイルをアプリに埋め込みません。検出を防ぎやすくするための設定です。"
           }
         }
       }
@@ -13221,6 +14385,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "使用ElleKit替换Substrate"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Substrate を ElleKit に置き換える"
           }
         }
       }
@@ -13299,6 +14469,12 @@
             "state" : "translated",
             "value" : "替换"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "置き換え"
+          }
         }
       }
     },
@@ -13370,6 +14546,12 @@
             "state" : "translated",
             "value" : "仓库"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リポジトリ"
+          }
         }
       }
     },
@@ -13428,6 +14610,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已经添加了这个仓库。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このリポジトリは追加済みです。"
           }
         }
       }
@@ -13518,6 +14706,12 @@
             "state" : "translated",
             "value" : "重置"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "リセット"
+          }
         }
       }
     },
@@ -13576,6 +14770,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置所有内容"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "すべてリセット"
           }
         }
       }
@@ -13636,6 +14836,12 @@
             "state" : "translated",
             "value" : "重置证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "証明書をリセット"
+          }
         }
       }
     },
@@ -13694,6 +14900,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置导入的应用"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "読み込んだアプリをリセット"
           }
         }
       }
@@ -13754,6 +14966,12 @@
             "state" : "translated",
             "value" : "重置网络缓存"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ネットワークのキャッシュをリセット"
+          }
         }
       }
     },
@@ -13812,6 +15030,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置设置"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定をリセット"
           }
         }
       }
@@ -13872,6 +15096,12 @@
             "state" : "translated",
             "value" : "重置已签名的应用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名済みアプリをリセット"
+          }
         }
       }
     },
@@ -13930,6 +15160,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置软件源"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソースをリセット"
           }
         }
       }
@@ -13990,6 +15226,12 @@
             "state" : "translated",
             "value" : "重置软件源、证书、应用和一般内容与设置。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリのソース、証明書、アプリ、そのほかの内容をリセットします。"
+          }
         }
       }
     },
@@ -14048,6 +15290,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "重置工作缓存"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "作業用キャッシュをリセット"
           }
         }
       }
@@ -14120,6 +15368,12 @@
             "state" : "translated",
             "value" : "重置心跳检测   "
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハートビートを再起動"
+          }
         }
       }
     },
@@ -14191,6 +15445,12 @@
             "state" : "translated",
             "value" : "需要重启"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "再起動が必要です"
+          }
         }
       }
     },
@@ -14237,6 +15497,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已撤销"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "失効"
           }
         }
       }
@@ -14321,6 +15587,12 @@
             "state" : "translated",
             "value" : "保存"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存"
+          }
         }
       }
     },
@@ -14367,6 +15639,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "截屏"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリーンショット"
           }
         }
       }
@@ -14440,6 +15718,12 @@
             "state" : "translated",
             "value" : "显示软件源中的所有应用"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソースのアプリをすべて見る"
+          }
         }
       }
     },
@@ -14510,6 +15794,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "你应该已经设置好配对文件了！"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアリングファイルを用意できたようですね！"
           }
         }
       }
@@ -14583,6 +15873,12 @@
             "state" : "translated",
             "value" : "选择替换图标"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "代替アイコンを選択"
+          }
         }
       }
     },
@@ -14655,6 +15951,12 @@
             "state" : "translated",
             "value" : "选择授权文件"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エンタイトルメントファイルを選択"
+          }
         }
       }
     },
@@ -14726,6 +16028,12 @@
             "state" : "translated",
             "value" : "半本地化"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "半ローカル"
+          }
         }
       }
     },
@@ -14784,6 +16092,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "正在发送元数据"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "マニフェストを送信中"
           }
         }
       }
@@ -14844,6 +16158,12 @@
             "state" : "translated",
             "value" : "正在发送负载"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "データを送信中"
+          }
         }
       }
     },
@@ -14903,6 +16223,12 @@
             "state" : "translated",
             "value" : "服务器"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバー"
+          }
         }
       }
     },
@@ -14961,6 +16287,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器（推荐）：\n使用本地托管的服务器和itms-services://来安装应用。\n\nIDevice（高级）：\n使用VPN和配对文件。写入AFC并手动调用installd，使用回调检测安装进度。\n优点：非常稳定，不需要SSL证书或设备外托管的服务器，而是在本地进行模拟。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバー（おすすめ）:\n端末内で動かすサーバーと itms-services:// を使って、アプリをインストールします。\n\nIDevice（上級者向け）:\nVPN とペアリングファイルを使います。AFC にファイルを書き込み、installd を直接呼び出して、コールバックでインストールの進み具合を確認します。\n利点: とても安定していて、SSL 証明書も外部のサーバーも必要ありません。コンピュータからインストールするのと同じような仕組みです。"
           }
         }
       }
@@ -15033,6 +16365,12 @@
             "state" : "translated",
             "value" : "服务器与SSL"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバーと SSL"
+          }
         }
       }
     },
@@ -15091,6 +16429,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "服务器类型"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サーバーの種類"
           }
         }
       }
@@ -15176,6 +16520,12 @@
             "state" : "translated",
             "value" : "设置"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "設定"
+          }
         }
       }
     },
@@ -15248,6 +16598,12 @@
             "state" : "translated",
             "value" : "导出时显示共享菜单"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "書き出し時に共有シートを表示"
+          }
         }
       }
     },
@@ -15318,6 +16674,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "支持我们"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "応援する"
           }
         }
       }
@@ -15390,6 +16752,12 @@
             "state" : "translated",
             "value" : "捐赠来支持我们！如果你不能捐赠，请帮我们多多宣传！"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "寄付で応援してください！寄付が難しい場合は、周りに広めてもらえるだけでも力になります！"
+          }
         }
       }
     },
@@ -15461,6 +16829,12 @@
             "state" : "translated",
             "value" : "签名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名"
+          }
         }
       }
     },
@@ -15531,6 +16905,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已签名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名済み"
           }
         }
       }
@@ -15609,6 +16989,12 @@
             "state" : "translated",
             "value" : "签名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名"
+          }
         }
       }
     },
@@ -15686,6 +17072,12 @@
             "state" : "translated",
             "value" : "签名选项"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名オプション"
+          }
         }
       }
     },
@@ -15745,6 +17137,12 @@
             "state" : "translated",
             "value" : "签名类型"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名の種類"
+          }
         }
       }
     },
@@ -15792,6 +17190,12 @@
             "state" : "translated",
             "value" : "大小"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "サイズ"
+          }
         }
       }
     },
@@ -15838,6 +17242,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "软件源"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソース"
           }
         }
       }
@@ -15909,6 +17319,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "软件源链接"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソースの URL"
           }
         }
       }
@@ -15994,6 +17410,12 @@
             "state" : "translated",
             "value" : "软件源"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソース"
+          }
         }
       }
     },
@@ -16040,6 +17462,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "软件源已复制到剪贴板"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ソースをクリップボードにコピーしました"
           }
         }
       }
@@ -16099,6 +17527,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更快"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "速度優先"
           }
         }
       }
@@ -16189,6 +17623,12 @@
             "state" : "translated",
             "value" : "捐赠者"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スポンサー"
+          }
         }
       }
     },
@@ -16260,6 +17700,12 @@
             "state" : "translated",
             "value" : "SSL证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 証明書"
+          }
         }
       }
     },
@@ -16330,6 +17776,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "标准"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "標準"
           }
         }
       }
@@ -16408,6 +17860,12 @@
             "state" : "translated",
             "value" : "开始签名"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名を開始"
+          }
         }
       }
     },
@@ -16479,6 +17937,12 @@
             "state" : "translated",
             "value" : "商店元素外观"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ストアの表示"
+          }
         }
       }
     },
@@ -16549,6 +18013,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "字符串"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "文字列"
           }
         }
       }
@@ -16639,6 +18109,12 @@
             "state" : "translated",
             "value" : "提交反馈"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "フィードバックを送信"
+          }
         }
       }
     },
@@ -16710,6 +18186,12 @@
             "state" : "translated",
             "value" : "支持通过KravaSign/MapleSign和ESign导入。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "KravaSign/MapleSign と ESign からの読み込みに対応しています。"
+          }
         }
       }
     },
@@ -16756,6 +18238,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "切换回去"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "元に戻す"
           }
         }
       }
@@ -16828,6 +18316,12 @@
             "state" : "translated",
             "value" : "团队标识符"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "チーム ID"
+          }
         }
       }
     },
@@ -16898,6 +18392,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "团队名"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "チーム名"
           }
         }
       }
@@ -16970,6 +18470,12 @@
             "state" : "translated",
             "value" : "心跳检测已在后台启用，并将在此App重启或被唤醒时重启。如果下面的状态灯正在闪动则为正常。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ハートビートはバックグラウンドで動いています。アプリを開き直したときや求められたときに再起動します。下の表示が点滅していれば正常です。"
+          }
         }
       }
     },
@@ -17029,6 +18535,12 @@
             "state" : "translated",
             "value" : "仅支持AltStore Repo。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "対応しているのは AltStore 形式のリポジトリだけです。"
+          }
         }
       }
     },
@@ -17087,6 +18599,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "主题"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "テーマ"
           }
         }
       }
@@ -17159,6 +18677,12 @@
             "state" : "translated",
             "value" : "这些改动需要重启应用。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この変更を反映するには、アプリの再起動が必要です"
+          }
         }
       }
     },
@@ -17217,6 +18741,12 @@
             "state" : "translated",
             "value" : "操作无法撤销，确定继续？"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "この操作は取り消せません。続けますか？"
+          }
         }
       }
     },
@@ -17263,6 +18793,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "这些选项设置在为应用签名时自动替换包ID/显示名称的规则。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリに署名するときに、バンドル ID や表示名を自動で置き換えるルールを設定できます。"
           }
         }
       }
@@ -17323,6 +18859,12 @@
             "state" : "translated",
             "value" : "为此应用启用Liquid Glass。需要重启应用。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "このアプリで Liquid Glass を有効にします。反映するにはアプリの再起動が必要です。"
+          }
         }
       }
     },
@@ -17382,6 +18924,12 @@
             "state" : "translated",
             "value" : "此选项强制为应用启用iOS 26的Liquid Glass。由于使用的框架不同，此选项不一定有效果。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "iOS 26 で導入された新しい Liquid Glass のデザインを使うように、アプリを強制的に変換します。使っているフレームワークによっては、うまくいかないアプリもあります。"
+          }
         }
       }
     },
@@ -17392,6 +18940,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "This option merges entitlements with the embedded entitlements from the app you're signing."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名するアプリに埋め込まれているエンタイトルメントと統合します。"
           }
         }
       }
@@ -17452,6 +19006,12 @@
             "state" : "translated",
             "value" : "在签名后删除导入的应用来节省空间。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "署名したあとに、読み込んだアプリを削除します。不要な容量を使わないようにするための設定です。"
+          }
         }
       }
     },
@@ -17498,6 +19058,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "彩色图标"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "色付きアイコン"
           }
         }
       }
@@ -17570,6 +19136,12 @@
             "state" : "translated",
             "value" : "启用该选项会在导出文件时显示共享菜单。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "オンにすると、ファイルに書き出したあとに共有シートを表示します。"
+          }
         }
       }
     },
@@ -17641,6 +19213,12 @@
             "state" : "translated",
             "value" : "隧道&配对"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "トンネルとペアリング"
+          }
         }
       }
     },
@@ -17706,6 +19284,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "插件"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tweak"
           }
         }
       }
@@ -17796,6 +19380,12 @@
             "state" : "translated",
             "value" : "未知"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "不明"
+          }
         }
       }
     },
@@ -17813,6 +19403,12 @@
             "state" : "translated",
             "value" : "Aktualizuj"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデート"
+          }
         }
       }
     },
@@ -17829,6 +19425,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "Dostępna aktualizacja"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アップデートがあります"
           }
         }
       }
@@ -17901,6 +19503,12 @@
             "state" : "translated",
             "value" : "更新SSL证书"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "SSL 証明書を更新"
+          }
         }
       }
     },
@@ -17947,6 +19555,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "已更新"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "更新済み"
           }
         }
       }
@@ -18000,6 +19614,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "网址"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "URL"
           }
         }
       }
@@ -18059,6 +19679,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "值"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "値"
           }
         }
       }
@@ -18143,6 +19769,12 @@
             "state" : "translated",
             "value" : "版本"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バージョン"
+          }
         }
       }
     },
@@ -18191,6 +19823,12 @@
             "state" : "translated",
             "value" : "版本%@"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バージョン %@"
+          }
         }
       }
     },
@@ -18237,6 +19875,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "版本历史"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "バージョン履歴"
           }
         }
       }
@@ -18310,6 +19954,12 @@
             "state" : "translated",
             "value" : "查看授权"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "エンタイトルメントを見る"
+          }
         }
       }
     },
@@ -18381,6 +20031,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "查看捐赠者"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Patreon を開く"
           }
         }
       }
@@ -18454,6 +20110,12 @@
             "state" : "translated",
             "value" : "访问网站"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Web サイトを開く"
+          }
         }
       }
     },
@@ -18500,6 +20162,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "更新内容"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新機能"
           }
         }
       }
@@ -18566,6 +20234,12 @@
             "state" : "translated",
             "value" : "不能用‘%@’更新自己，请使用其他工具更新。"
           }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "「%@」は、このアプリ自身では更新できません。別のツールで更新してください。"
+          }
         }
       }
     },
@@ -18624,6 +20298,12 @@
           "stringUnit" : {
             "state" : "translated",
             "value" : "配对文件不可用并且与设备不匹配，请导入可用的的配置文件。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ペアリングファイルが無効で、このデバイスでは使えません。有効なペアリングファイルを読み込んでください。"
           }
         }
       }
