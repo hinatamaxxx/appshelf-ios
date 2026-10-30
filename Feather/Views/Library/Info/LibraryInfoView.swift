@@ -5,6 +5,7 @@
 //  Created by samara on 14.04.2025.
 //
 
+import FeatherObjC
 import SwiftUI
 import NimbleViews
 import Zsign

@@ -5,6 +5,7 @@
 //  Created by samara on 18.04.2025.
 //
 
+import FeatherObjC
 import SwiftUI
 
 enum FRIconAppearance: Int {

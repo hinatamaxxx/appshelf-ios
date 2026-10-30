@@ -1,0 +1,1 @@
+Vendored from https://github.com/khcrysalis/Zsign-Package at c4ba9da4283031c07efa03bce42c4b8602d22e73 (MIT). Changes: OpenSSL includes use the framework's case (OpenSSL/...) so they resolve on case-sensitive file systems.
