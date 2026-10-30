@@ -35,6 +35,16 @@ int zsign(
 	void(^completionHandler)(BOOL success)
 );
 
+int zsignMulti(
+	NSString *app,
+	NSArray<NSString *> *provs,
+	NSString *key,
+	NSString *pass,
+	NSString *bundleid,
+	bool excludeprovion,
+	void(^completionHandler)(BOOL success)
+);
+
 int checkCert(
 	NSString *prov,
 	NSString *key,

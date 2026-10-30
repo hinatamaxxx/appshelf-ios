@@ -93,6 +93,23 @@ public enum Zsign {
 		}
 		return true
 	}
+	/// Sign with one provisioning profile per bundle (AppShelf).
+	/// - Parameters:
+	///   - provisionPaths: the app's profile first, then one per app extension; each nested bundle is
+	///     signed with the profile whose application-identifier ends with its bundle id
+	static public func sign(
+		appPath: String,
+		provisionPaths: [String],
+		p12Path: String,
+		p12Password: String = "",
+		customIdentifier: String = "",
+		removeProvision: Bool = false,
+		completion: ((Bool) -> Void)? = nil
+	) -> Bool {
+		zsignMulti(appPath, provisionPaths, p12Path, p12Password, customIdentifier, removeProvision) { success in
+			completion?(success)
+		} == 0
+	}
 	/// Check revokage
 	/// - Parameters:
 	///   - provisionPath: Relative path to a provisioning file (i.e. `samara.mobileprovision`)
