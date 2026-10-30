@@ -5,6 +5,7 @@
 //  Created by samara on 17.04.2025.
 //
 
+import FeatherObjC
 import Foundation
 import ZsignC
 import UIKit

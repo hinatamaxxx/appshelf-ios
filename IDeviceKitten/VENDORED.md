@@ -1,0 +1,1 @@
+Vendored from https://github.com/khcrysalis/IDeviceKit at 837cf1e14d4875771dd5ee1b754a4c86215c5db3 (see LICENSE). Change: the IDevice binary target is a local xcframework made by tools/prepare-idevice.py.
